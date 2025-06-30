@@ -1,0 +1,5 @@
+psutil
+socket
+netifaces
+subprocess
+threading
